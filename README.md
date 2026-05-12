@@ -1,6 +1,6 @@
-# Hola, soy Steven Castañeda 👋🇨🇴
+# Hola, soy Steven Castañeda 👋
 
-### Desarrollador Web Fullstack en formación
+### Desarrollador Web Fullstack 
 
 Apasionado por construir soluciones digitales que generen impacto real en las personas.
 Basado en Bogotá, Colombia.
